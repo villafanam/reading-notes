@@ -40,3 +40,5 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 15 Notes-](/201/class15.md)
 
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
+
+©Marco Villafana 102d45
