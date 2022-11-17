@@ -6,7 +6,7 @@
 
 + Code run form first line to last line in file unless there are loop or conditionals 
 
-![For loop Diagram](images/For-loop-diagram.png)
+![For loop Diagram](/images/For-loop-diagram.png "For loop Diagram")
 
 
 ### JavaScript Functions 
