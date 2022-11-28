@@ -104,7 +104,8 @@
 
 + Made up elements and tags to enclose content to make it appear or act a certain way 
 
-![HTML Element](images/htmlElement.png) 
+<!-- ![HTML Element](/images/htmlElement.png)  -->
+![HTML Element](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started/grumpy-cat-small.png)
 
   + Opening tag marks where the element begins or starts to take effect 
 
