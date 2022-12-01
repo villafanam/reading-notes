@@ -23,9 +23,9 @@ This site is a collections of note for each class I've taken at Code Fellows.
 
 ### Code 201 Reading Notes
 
-+ [Class 1 Notes-](/201/class1.md)
-+ [Class 2 Notes-](/201/class2.md)
-+ [Class 3 Notes-](/201/class3.md)
++ [Class 1 Notes-Setup Developer Toolbelt](/201/class1.md)
++ [Class 2 Notes-Introduction to Web Development](/201/class2.md)
++ [Class 3 Notes-Lists, The Box Model, and Loops](/201/class3.md)
 + [Class 4 Notes-](/201/class4.md)
 + [Class 5 Notes-](/201/class5.md)
 + [Class 6 Notes-](/201/class6.md)
