@@ -28,13 +28,13 @@
 
 + List and describe the four parts of an HTML elements box as referred to by the box model. 
 
-  + Content box is the area where content is displayed 
+  + Content box is the area where content is displayed and has height and width
 
-  + Padding box area is around the content as white space 
+  + Padding box area is white space between border and content
 
   + Border box wraps around the content and padding  
 
-  + Margin box is white space that wraps around the content, padding, and border 
+  + Margin box is white space that wraps around the content, padding, and border. White space between elements
 
 ## JS-- Arrays. Operators and Expressions. Conditionals. Loops. 
 
