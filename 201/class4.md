@@ -1,6 +1,6 @@
-# Class 3 Notes
+# Class 4 Notes
 
-## HTML 
+## HTML- [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 + To create a basic link, we wrap text or other content inside what element? 
 
@@ -18,7 +18,7 @@
 
   + Use download attribute 
 
-## CSS Layout 
+## CSS Layout- [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 
 + What is meant by “normal flow”? 
 
@@ -51,7 +51,7 @@
   + Absolute positioning fixes an element in place relative to its nearest positioned ancestor 
   + Fixed positioning fixes an element in place relative to the viewport. 
 
-## JavaScript 
+## JavaScript- [Lear JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) 
 
 + Describe the difference between a function declaration and a function invocation. 
 
