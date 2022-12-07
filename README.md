@@ -28,7 +28,7 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 3 Notes--Lists, The Box Model, and Loops](/201/class3.md)
 + [Class 4 Notes--HTML links, JS Functions and Intro CSS Layout](/201/class4.md)
 + [Class 5 Notes--Images, Color, Text](/201/class5.md)
-+ [Class 6 Notes--](/201/class6.md)
++ [Class 6 Notes--Problem Domain, Objects, and the DOM](/201/class6.md)
 + [Class 7 Notes--](/201/class7.md)
 + [Class 8 Notes--](/201/class8.md)
 + [Class 9 Notes--](/201/class9.md)
