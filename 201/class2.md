@@ -18,11 +18,6 @@
 
   + Title attribute
 
-## Things I want to know more about
-
-+ How to use a drop down list
-+ how to make use events to make changes using a drop down list
-
 ## [Learn CSS-How CSS is Structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
 
 + What are ways we can apply CSS to our HTML? 
@@ -108,5 +103,9 @@
 
   ![Truth Table](../images/truthTable.png)
   
+## Things I want to know more about
+
++ How to use a drop down list
++ how to make use events to make changes using a drop down list
 
 © Marco Villafana 201d93
