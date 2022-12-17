@@ -32,7 +32,7 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 7 Notes--Object-Oriented Programming](/201/class7.md)
 + [Class 8 Notes--CSS Layout](/201/class8.md)
 + [Class 9 Notes--Forms and JS Events](/201/class9.md)
-+ [Class 10 Notes--](/201/class10.md)
++ [Class 10 Notes--Debugging](/201/class10.md)
 + [Class 11 Notes--](/201/class11.md)
 + [Class 12 Notes--Chart.js, Canvas](/201/class12.md)
 + [Class 13 Notes--](/201/class13.md)
