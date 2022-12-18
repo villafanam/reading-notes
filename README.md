@@ -33,9 +33,9 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 8 Notes--CSS Layout](/201/class8.md)
 + [Class 9 Notes--Forms and JS Events](/201/class9.md)
 + [Class 10 Notes--Debugging](/201/class10.md)
-+ [Class 11 Notes--](/201/class11.md)
++ [Class 11 Notes--Audio, Video, Images](/201/class11.md)
 + [Class 12 Notes--Chart.js, Canvas](/201/class12.md)
-+ [Class 13 Notes--](/201/class13.md)
++ [Class 13 Notes--Local Storage](/201/class13.md)
 + [Class 14 Notes--](/201/class14.md)
 + [Class 15 Notes--](/201/class15.md)
 
