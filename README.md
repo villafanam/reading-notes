@@ -12,26 +12,26 @@ This site is a collections of note for each class I've taken at Code Fellows.
 
 ### Code 102 - Intro to Software Development
 
-+ [Class 1 Notes--Learing Markdown](/102/class1.md)
-+ [Class 2 Notes--Coders Computer](/102/class2.md)
-+ [Class 3 Notes--Revisions and the Cloud](/102/class3.md)
-+ [Class 4 Notes--Structure web pages with HTML](/102/class4.md)
-+ [Class 5 Notes--Design web pages with CSS](/102/class5.md)
-+ [Class 6 Notes--Dynamic web pages with JavaScript](/102/class6.md)
-+ [Class 7 Notes--Programming with JavaScript](/102/class7.md)
-+ [Class 8 Notes--Operators and Loops](/102/class8.md)
++ [Class 01 Notes--Learing Markdown](/102/class1.md)
++ [Class 02 Notes--Coders Computer](/102/class2.md)
++ [Class 03 Notes--Revisions and the Cloud](/102/class3.md)
++ [Class 04 Notes--Structure web pages with HTML](/102/class4.md)
++ [Class 05 Notes--Design web pages with CSS](/102/class5.md)
++ [Class 06 Notes--Dynamic web pages with JavaScript](/102/class6.md)
++ [Class 07 Notes--Programming with JavaScript](/102/class7.md)
++ [Class 08 Notes--Operators and Loops](/102/class8.md)
 
 ### Code 201 - Foundations of Software Development
 
-+ [Class 1 Notes--Setup Developer Toolbelt](/201/class1.md)
-+ [Class 2 Notes--Introduction to Web Development](/201/class2.md)
-+ [Class 3 Notes--Lists, The Box Model, and Loops](/201/class3.md)
-+ [Class 4 Notes--HTML links, JS Functions and Intro CSS Layout](/201/class4.md)
-+ [Class 5 Notes--Images, Color, Text](/201/class5.md)
-+ [Class 6 Notes--Problem Domain, Objects, and the DOM](/201/class6.md)
-+ [Class 7 Notes--Object-Oriented Programming](/201/class7.md)
-+ [Class 8 Notes--CSS Layout](/201/class8.md)
-+ [Class 9 Notes--Forms and JS Events](/201/class9.md)
++ [Class 01 Notes--Setup Developer Toolbelt](/201/class1.md)
++ [Class 02 Notes--Introduction to Web Development](/201/class2.md)
++ [Class 03 Notes--Lists, The Box Model, and Loops](/201/class3.md)
++ [Class 04 Notes--HTML links, JS Functions and Intro CSS Layout](/201/class4.md)
++ [Class 05 Notes--Images, Color, Text](/201/class5.md)
++ [Class 06 Notes--Problem Domain, Objects, and the DOM](/201/class6.md)
++ [Class 07 Notes--Object-Oriented Programming](/201/class7.md)
++ [Class 08 Notes--CSS Layout](/201/class8.md)
++ [Class 09 Notes--Forms and JS Events](/201/class9.md)
 + [Class 10 Notes--Debugging](/201/class10.md)
 + [Class 11 Notes--Audio, Video, Images](/201/class11.md)
 + [Class 12 Notes--Chart.js, Canvas](/201/class12.md)
@@ -40,9 +40,11 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 15 Notes--](/201/class15.md)
 
 ### Code 301 - Intermediate Software Development
-  
+
++ [Class 01 Notes--Introduction to React and Components](/301/class01.md)
+
 ### Code 401 - Advanced Software Development
 
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
 
-©Marco Villafana 102d45
+©Marco Villafana 301d93
