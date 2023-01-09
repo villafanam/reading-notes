@@ -10,7 +10,7 @@ This site is a collections of note for each class I've taken at Code Fellows.
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 + [Class 1 Notes--Learing Markdown](/102/class1.md)
 + [Class 2 Notes--Coders Computer](/102/class2.md)
@@ -21,7 +21,7 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 7 Notes--Programming with JavaScript](/102/class7.md)
 + [Class 8 Notes--Operators and Loops](/102/class8.md)
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 + [Class 1 Notes--Setup Developer Toolbelt](/201/class1.md)
 + [Class 2 Notes--Introduction to Web Development](/201/class2.md)
@@ -38,6 +38,10 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 13 Notes--](/201/class13.md)
 + [Class 14 Notes--](/201/class14.md)
 + [Class 15 Notes--](/201/class15.md)
+
+### Code 301 - Intermediate Software Development
+
+### Code 401 - Advanced Software Development
 
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
 
