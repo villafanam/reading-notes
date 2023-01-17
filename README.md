@@ -42,6 +42,7 @@ This site is a collections of note for each class I've taken at Code Fellows.
 ### Code 301 - Intermediate Software Development
 
 + [Class 01 Notes--Introduction to React and Components](/301/class01.md)
++ [Class 06 Notes--Node.js](/301/class06.md)
 
 ### Code 401 - Advanced Software Development
 
