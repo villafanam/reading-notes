@@ -42,9 +42,14 @@ This site is a collections of note for each class I've taken at Code Fellows.
 ### Code 301 - Intermediate Software Development
 
 + [Class 01 Notes--Introduction to React and Components](/301/class01.md)
++ [Class 02 Notes--State and Props](/301/class02.md)
++ [Class 03 Notes--Passing Functions as Props](/301/class03.md)
 + [Class 04 Notes--React and Forms](/301/class04.md)
++ [Class 05 Notes--Putting it all together](/301/class05.md)
 + [Class 06 Notes--Node.js](/301/class06.md)
 + [Class 07 Notes--REST](/301/class07.md)
++ [Class 08--APIs](/301/class08.md)
++ [Class 09 Notes--Functional Programming](/301/class09.md)
 
 ### Code 401 - Advanced Software Development
 
