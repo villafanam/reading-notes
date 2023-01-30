@@ -50,6 +50,7 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 07 Notes--REST](/301/class07.md)
 + [Class 08--APIs](/301/class08.md)
 + [Class 09 Notes--Functional Programming](/301/class09.md)
++ [Class 10 Notes--In memory storage](/301/class10.md)
 
 ### Code 401 - Advanced Software Development
 
