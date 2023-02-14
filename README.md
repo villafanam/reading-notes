@@ -57,6 +57,8 @@ This site is a collections of note for each class I've taken at Code Fellows.
 
 ### Code 401 - Advanced Software Development
 
++ [Class 01 Notes--Node Ecosystem](/401/class01.md)
+
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
 
 ©Marco Villafana 301d93
