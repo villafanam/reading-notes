@@ -58,6 +58,8 @@ This site is a collections of note for each class I've taken at Code Fellows.
 ### Code 401 - Advanced Software Development
 
 + [Class 01 Notes--Node Ecosystem](/401/class01.md)
++ [Class 02 Notes--Express, NPM, TDD, CI/CD](/401/class02.md)
++ [Class 08 Notes--Access Control (ACL)](/401/class08.md)
 
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
 
