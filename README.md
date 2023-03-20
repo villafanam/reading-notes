@@ -62,6 +62,7 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 08 Notes--Access Control (ACL)](/401/class08.md)
 + [Class 09 Notes--Authorization/Authentication](/401/class09.md)
 + [Class 16 Notes--AWS: Cloud Servers](/401/class16.md)
++ [Class 26--Component Based UI](/401/class26.md)
 
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
 
