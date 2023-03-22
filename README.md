@@ -64,7 +64,9 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 16 Notes--AWS: Cloud Servers](/401/class16.md)
 + [Class 26--Component Based UI](/401/class26.md)
 + [Class 27--useState() Hook](/401/class27.md)
++ [Class 28--Component Lifecycle / `useEffect` Hook](/401/class28.md)
+
 
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
 
-©Marco Villafana 301d93
+©Marco Villafana 401d51
