@@ -54,7 +54,6 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 12 Notes--CRUD](/301/class12.md)
 + [Class 13 Notes--In memory storage](/301/class13.md)
 
-
 ### Code 401 - Advanced Software Development
 
 + [Class 01 Notes--Node Ecosystem](/401/class01.md)
@@ -62,10 +61,10 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 08 Notes--Access Control (ACL)](/401/class08.md)
 + [Class 09 Notes--Authorization/Authentication](/401/class09.md)
 + [Class 16 Notes--AWS: Cloud Servers](/401/class16.md)
-+ [Class 26--Component Based UI](/401/class26.md)
-+ [Class 27--useState() Hook](/401/class27.md)
-+ [Class 28--Component Lifecycle / `useEffect` Hook](/401/class28.md)
-
++ [Class 26 Notes--Component Based UI](/401/class26.md)
++ [Class 27 Notes--useState() Hook](/401/class27.md)
++ [Class 28 Notes--Component Lifecycle / `useEffect` Hook](/401/class28.md)
++ [Class 29 Notes--Advanced State with Reducers](/401/class29.md)
 
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
 
