@@ -65,6 +65,7 @@ This site is a collections of note for each class I've taken at Code Fellows.
 + [Class 27 Notes--useState() Hook](/401/class27.md)
 + [Class 28 Notes--Component Lifecycle / `useEffect` Hook](/401/class28.md)
 + [Class 29 Notes--Advanced State with Reducers](/401/class29.md)
++ [Class 36 Notes--Application State with Redux](/401/class36.md)
 
 Here's my link to my github portfolio: [Github Portfolio](https://github.com/villafanam)
 
